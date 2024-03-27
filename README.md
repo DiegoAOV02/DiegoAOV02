@@ -2,7 +2,7 @@
 
 ## I'm student, cinephile and food lover.
 - 📚 I'm currently study at Universidad Politécnica de Victoria on Ciudad Victoria, Tamaulipas, México.
-- 🐍 I have a certification in Python and also I'm interest in networks!
+- 🐍 I have a certification in Python!
 - 🎭 I also love watch movies and TV-Shows!
 
 - ### Connect with me:
