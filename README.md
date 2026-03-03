@@ -12,11 +12,11 @@
 
 ### Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,express&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,nodejs,express,nextjs&perline=4)](https://skillicons.dev)
 
 ### Tools & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,xd,figma,postman,windows,apple,linux,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,xd,figma,postman,windows,apple,linux,androidstudio&perline=4)](https://skillicons.dev)
 
 ## Contact me:
 
